@@ -1,4 +1,4 @@
-dgn_code,forced_vital_capacity,volume_exhaled_after_fs_forced_expiration,performance_status,pain_before,haemoptysis_before,dyspnoea_before,cough_before,weakness_before,size_of_original_tumour,type_2_diabetes,mi_up_to_6_months,pad,smoking,asthma,age_at_surgery,survival_after_one_year
+dgn_code_b,forced_vital_capacity_g,volume_exhaled_after_fs_forced_expiration_g,performance_status_b,pain_before_b,haemoptysis_before_b,dyspnoea_before_b,cough_before_b,weakness_before_b,size_of_original_tumour_g,type_2_diabetes_b,mi_up_to_6_months_g,pad_b,smoking_b,asthma_b,age_at_surgery_g,survival_after_one_year_b
 DGN2,2.88,2.16,PRZ1,F,F,F,T,T,OC14,F,F,F,T,F,60,F
 DGN3,3.4,1.88,PRZ0,F,F,F,F,F,OC12,F,F,F,T,F,51,F
 DGN3,2.76,2.08,PRZ1,F,F,F,T,F,OC11,F,F,F,T,F,59,F
